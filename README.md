@@ -27,6 +27,8 @@ This paper describes the multikernel design approach to operating system kernels
 
 This paper describes seL4, the first formally proven general-purpose operating system.
 
+"[Rethinking the Library OS from the Top Down](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf)" (2011) by Donald E. Porter et al. ASPLOS '11.
+
 "[Unikernels: Library Operating Systems for the Cloud](https://anil.recoil.org/papers/2013-asplos-mirage.pdf)" (2013) by Anil Madhavapeddy et al. ASPLOS ’13
 
 "[Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter)" (2014) by Simon Peter et al. OSDI '14
