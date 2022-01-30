@@ -17,6 +17,8 @@ The seminal paper on the UNIX operating system by its creators.
 
 "[Exokernel: An Operating System Architecture for Application-Level Resource Management](https://web.eecs.umich.edu/~mosharaf/Readings/Exokernel.pdf)" (1995) by Dawson R. Engler et al.
 
+The exokernel approach aims to eliminate operating system abstractions by having a small kernel that exports hardware resources with a low-level interface to untrusted _library operating systems_. 
+
 "[The Multikernel: A new OS architecture for scalable multicore systems](https://www.sigops.org/s/conferences/sosp/2009/papers/baumann-sosp09.pdf)" (2009) by Andrew Baumann et al. SOSP '09
 
 This paper describes the multikernel design approach to operating system kernels, which aims to improve scalability, and support heterogenenous and diverse hardware. There's also an awesome [retrospective](https://www.sigops.org/2021/fish-in-a-barrel-an-insiders-retrospective-of-the-sosp09-multikernel-paper/).
