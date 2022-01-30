@@ -4,8 +4,11 @@ A curated list of awesome resources on operating system design and implementatio
 
 ## Conferences
 
+Some of the conferences where to find publications on operating systems research:
+
 * [ACM Architectural Support for Programming Languages and Operating Systems](https://dl.acm.org/conference/asplos) (ASPLOS)
 * [ACM Symposium on Operating Systems Principles](https://dl.acm.org/conference/sosp) (SOSP)
+* USENIX Annual Technical Conference (ATC)
 * USENIX Symposium on Operating Systems Design and Implementation (OSDI)
 * Horkshop on Hot Topics in Operating Systems (HotOS)
 
@@ -43,11 +46,14 @@ This paper details an operating system design where the type-safety of Rust prog
 
 "[RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/conference/osdi20/presentation/narayanan-vikram)" (2020) by Vikram Narayanan et al. OSDI '20
 
+"[Twizzler: a Data-Centric OS for Non-Volatile Memory](https://www.usenix.org/system/files/atc20-bittman.pdf)" (2020) by Daniel Bittman et al. ATC '20.
+
 "[The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems](https://irenezhang.net/papers/demikernel-sosp21.pdf)" (2021) by Irene Zhang et al. SOSP '21
 
 ## Operating Systems
 
 * [Barrelfish](http://www.barrelfish.org)
 * [Demikernel](https://github.com/demikernel/demikernel)
-* [Kerla](https://github.com/nuta/kerla) is a Linux ABI compatible OS written in Rust.
+* [Kerla](https://github.com/nuta/kerla)
 * [Tock](https://www.tockos.org)
+* [Twizzler](https://twizzler.io)
