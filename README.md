@@ -1,6 +1,6 @@
 # Awesome Operating Systems
 
-Operating systems are awesome!
+A curated list of awesome resources on operating system design and implementation.
 
 ## Conferences
 
@@ -25,7 +25,7 @@ This paper describes the multikernel design approach to operating system kernels
 
 This paper describes seL4, the first formally proven general-purpose operating system.
 
-"[Unikernels: Library Operating Systems for the Cloud](https://anil.recoil.org/papers/2013-asplos-mirage.pdf) (2013) by Anil Madhavapeddy et al. ASPLOS’13
+"[Unikernels: Library Operating Systems for the Cloud](https://anil.recoil.org/papers/2013-asplos-mirage.pdf)" (2013) by Anil Madhavapeddy et al. ASPLOS ’13
 
 "[Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter)" (2014) by Simon Peter et al. OSDI '14
 
@@ -43,4 +43,7 @@ This paper details an operating system design where the type-safety of Rust prog
 
 ## Operating Systems
 
+* [Barrelfish](http://www.barrelfish.org)
+* [Demikernel](https://github.com/demikernel/demikernel)
 * [Kerla](https://github.com/nuta/kerla) is a Linux ABI compatible OS written in Rust.
+* [Tock](https://www.tockos.org)
