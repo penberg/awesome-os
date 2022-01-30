@@ -23,6 +23,10 @@ This paper describes the multikernel design approach to operating system kernels
 
 "[IX: A Protected Dataplane Operating System for High Throughput and Low Latency](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf)" (2014) by Adam Belay et al. OSDI '14
 
+"[Multiprogramming a 64 kB Computer Safely and Efficiently](https://www.tockos.org/assets/papers/tock-sosp2017.pdf)" (2017) by Amit Levy et al. SOSP '17.
+
+This paper details an operating system design where the type-safety of Rust programming language provides memory protection on MMU-less hardware.
+
 "[LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/system/files/osdi18-shan.pdf)" (2018) by Yizhou Shan et al. OSDI '18
 
 "[RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/conference/osdi20/presentation/narayanan-vikram)" (2020) by Vikram Narayanan et al. OSDI '20
