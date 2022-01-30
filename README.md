@@ -11,15 +11,19 @@ Operating systems are awesome!
 
 ## Papers
 
-"[The UNIX Time-Sharing System](https://dsf.berkeley.edu/cs262/unix.pdf) (1974) by Dennis M. Ritchie and Ken Thompson.
+"[The UNIX Time-Sharing System](https://dsf.berkeley.edu/cs262/unix.pdf)" (1974) by Dennis M. Ritchie and Ken Thompson.
 
 The seminal paper on the UNIX operating system by its creators.
 
-"[Exokernel: An Operating System Architecture for Application-Level Resource Management](https://web.eecs.umich.edu/~mosharaf/Readings/Exokernel.pdf) (1995) by Dawson R. Engler et al.
+"[Exokernel: An Operating System Architecture for Application-Level Resource Management](https://web.eecs.umich.edu/~mosharaf/Readings/Exokernel.pdf)" (1995) by Dawson R. Engler et al.
 
 "[The Multikernel: A new OS architecture for scalable multicore systems](https://www.sigops.org/s/conferences/sosp/2009/papers/baumann-sosp09.pdf)" (2009) by Andrew Baumann et al. SOSP '09
 
 This paper describes the multikernel design approach to operating system kernels, which aims to improve scalability, and support heterogenenous and diverse hardware. There's also an awesome [retrospective](https://www.sigops.org/2021/fish-in-a-barrel-an-insiders-retrospective-of-the-sosp09-multikernel-paper/).
+
+"[seL4: Formal Verification of an OS Kernel](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.150.4815&rep=rep1&type=pdf)" (2009) by Gerwin Klein et al. SOSP '09
+
+This paper describes seL4, the first formally proven general-purpose operating system.
 
 "[Unikernels: Library Operating Systems for the Cloud](https://anil.recoil.org/papers/2013-asplos-mirage.pdf) (2013) by Anil Madhavapeddy et al. ASPLOS’13
 
