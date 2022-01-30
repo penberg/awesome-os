@@ -4,15 +4,20 @@ Operating systems are awesome!
 
 ## Conferences
 
+* [ACM Architectural Support for Programming Languages and Operating Systems](https://dl.acm.org/conference/asplos) (ASPLOS)
 * [ACM Symposium on Operating Systems Principles](https://dl.acm.org/conference/sosp) (SOSP)
 * USENIX Symposium on Operating Systems Design and Implementation (OSDI)
 * Horkshop on Hot Topics in Operating Systems (HotOS)
 
 ## Papers
 
+"[Exokernel: An Operating System Architecture for Application-Level Resource Management](https://web.eecs.umich.edu/~mosharaf/Readings/Exokernel.pdf) (1995) by Dawson R. Engler et al.
+
 "[The Multikernel: A new OS architecture for scalable multicore systems](https://www.sigops.org/s/conferences/sosp/2009/papers/baumann-sosp09.pdf)" (2009) by Andrew Baumann et al. SOSP '09
 
 This paper describes the multikernel design approach to operating system kernels, which aims to improve scalability, and support heterogenenous and diverse hardware. There's also an awesome [retrospective](https://www.sigops.org/2021/fish-in-a-barrel-an-insiders-retrospective-of-the-sosp09-multikernel-paper/).
+
+"[Unikernels: Library Operating Systems for the Cloud](https://anil.recoil.org/papers/2013-asplos-mirage.pdf) (2013) by Anil Madhavapeddy et al. ASPLOS’13
 
 "[Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter)" (2014) by Simon Peter et al. OSDI '14
 
