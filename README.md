@@ -32,6 +32,8 @@ This paper describes seL4, the first formally proven general-purpose operating s
 
 "[Rethinking the Library OS from the Top Down](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf)" (2011) by Donald E. Porter et al. ASPLOS '11.
 
+"[Dune: Safe User-level Access to Privileged CPU Features](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-117.pdf)" (2012) by Adam Belay et al. OSDI '12.
+
 "[Unikernels: Library Operating Systems for the Cloud](https://anil.recoil.org/papers/2013-asplos-mirage.pdf)" (2013) by Anil Madhavapeddy et al. ASPLOS ’13
 
 "[Arrakis: The Operating System is the Control Plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter)" (2014) by Simon Peter et al. OSDI '14
