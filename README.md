@@ -24,6 +24,8 @@ The exokernel approach aims to eliminate operating system abstractions by having
 
 "[The Design and Implementation of an Operating System to Support Distributed Multimedia Applications](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.38.8833&rep=rep1&type=pdf)" (1996) by Ian Leslie et al. IEEE Journal on Selected Areas in Communications
 
+"[Corey: An Operating System for Many Cores](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/boyd-wickizer/boyd_wickizer.pdf)" (2008) by Silas Boyd-Wickizer et al. OSDI '08
+
 "[The Multikernel: A new OS architecture for scalable multicore systems](https://www.sigops.org/s/conferences/sosp/2009/papers/baumann-sosp09.pdf)" (2009) by Andrew Baumann et al. SOSP '09
 
 This paper describes the multikernel design approach to operating system kernels, which aims to improve scalability, and support heterogenenous and diverse hardware. There's also an awesome [retrospective](https://www.sigops.org/2021/fish-in-a-barrel-an-insiders-retrospective-of-the-sosp09-multikernel-paper/).
