@@ -63,3 +63,4 @@ This paper details an operating system design where the type-safety of Rust prog
 * [Kerla](https://github.com/nuta/kerla)
 * [Tock](https://www.tockos.org)
 * [Twizzler](https://twizzler.io)
+* [egos-2000](https://github.com/yhzhang0128/egos-2000)
